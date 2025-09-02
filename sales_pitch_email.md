@@ -12,7 +12,10 @@ Let’s schedule a free 15-minute discovery call. I’d love to show you how we 
 
 
 Best regards,
+
 [Your Name]
+
 AI Brand Strategist, NeuraBrand
+
 [Phone] | [Website/Portfolio link]
 
