@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI-Powered Digital Branding Agency: NeuraBrand
 
 An educational project showcasing the creation of a futuristic AI-powered digital branding agency, **NeuraBrand**. This project leverages **ChatGPT** and **Canva Magic Media** to generate branding assets, marketing content, and sales strategies, culminating in a marketable digital branding portfolio.
@@ -59,7 +58,6 @@ By completing this project, learners will:
 1. Explore each file to understand the AI-generated content.
 2. Use the AI prompts provided (in your documentation) to recreate or extend assets.
 3. Combine branding assets, marketing content, and pitch materials to present a professional AI-powered digital branding portfolio.
-=======
 # AI-Powered Digital Branding Agency
 
 An educational project where learners collaborate to create a futuristic, AI-powered digital branding agency. This project leverages tools like **ChatGPT** and **Canva Magic Media** to design branding assets, generate marketing content, and develop monetization strategies, culminating in a marketable digital branding portfolio.
@@ -184,18 +182,12 @@ This project is ideal for **learners, students, and aspiring digital marketers**
 - New AI prompts
 - Sample designs or templates
 - Marketing and sales strategies
->>>>>>> be1bf819aadd74fa0affb3134afd6848375ca53f
 
 ---
 
 ## 📌 License
 
-<<<<<<< HEAD
-This repository is for **educational purposes** and creative exploration. All AI-generated content should comply with the terms of use of the respective AI tools.
-
----
-=======
 This project is open for educational purposes and creative collaboration. All generated content should respect copyright and usage policies of AI tools used.
 
 ---
->>>>>>> be1bf819aadd74fa0affb3134afd6848375ca53f
+
